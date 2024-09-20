@@ -1,4 +1,4 @@
-# PROJECT TITLE 
+# An Exploration into a variety of models to predict future swimclub lessons 
 
 
 ## NON-TECHNICAL EXPLANATION OF YOUR PROJECT
